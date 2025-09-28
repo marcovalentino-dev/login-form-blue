@@ -106,5 +106,3 @@
     .card{animation-delay:90ms}
     .hero{animation-delay:180ms}
     @keyframes enter{to{opacity:1;transform:translateY(0) scale(1)}}
-
-  </style>
